@@ -1,7 +1,7 @@
-package com.chessiq.service;
+package com.chessiq.services;
 
 import com.chessiq.dto.UserDTO;
-import com.chessiq.model.User;
+import com.chessiq.models.User;
 import com.chessiq.repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;

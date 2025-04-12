@@ -1,8 +1,8 @@
-package com.chessiq.controller;
+package com.chessiq.controllers;
 
 import com.chessiq.dto.UserDTO;
-import com.chessiq.model.User;
-import com.chessiq.service.UserService;
+import com.chessiq.models.User;
+import com.chessiq.services.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.*;
 import org.springframework.web.bind.annotation.*;
